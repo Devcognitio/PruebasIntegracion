@@ -1,4 +1,4 @@
-# PruebasUnitarias
+# PruebasIntregracion
 Arquetipo para pruebas de integracion y unitarias - Gradle, Spring, Java8
 
 ## Ejecutar pruebas unitarias
